@@ -33,6 +33,8 @@ git commit -am "titulo del commit"
 para reconstruir todo los archivos y modificaciones sobre el último commit.
 ```bash
 git checkout -- .
+
+https://dfuckingfenix.github.io/viajes_chile_mfigueroa/
 ```
 para verificar cuantos commit tengo 
 ```bash
@@ -103,5 +105,8 @@ para configurar correo ( recomendación, usar la misma cuenta de github)
 ```bash
 git config --global user.email "correo@gmail.com"
 ```
+<<<<<<< HEAD
 
 https://dfuckingfenix.github.io/viajes_chile_mfigueroa/
+=======
+>>>>>>> 301efc8d84b4629c8ed44fdb9ab319d96671fbf5
