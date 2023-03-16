@@ -33,6 +33,8 @@ git commit -am "titulo del commit"
 para reconstruir todo los archivos y modificaciones sobre el último commit.
 ```bash
 git checkout -- .
+
+https://dfuckingfenix.github.io/viajes_chile_mfigueroa/
 ```
 para verificar cuantos commit tengo 
 ```bash
